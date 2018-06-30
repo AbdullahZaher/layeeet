@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?vrh177');
-  src:  url('fonts/icomoon.eot?vrh177#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?vrh177') format('truetype'),
-    url('fonts/icomoon.woff?vrh177') format('woff'),
-    url('fonts/icomoon.svg?vrh177#icomoon') format('svg');
+  src:  url('https://rawgit.com/AbdullahZaher/layeeet/master/fonts/icomoon.eot?vrh177');
+  src:  url('https://rawgit.com/AbdullahZaher/layeeet/master/fonts/icomoon.eot?vrh177#iefix') format('embedded-opentype'),
+    url('https://rawgit.com/AbdullahZaher/layeeet/master/fonts/icomoon.ttf?vrh177') format('truetype'),
+    url('https://rawgit.com/AbdullahZaher/layeeet/master/fonts/icomoon.woff?vrh177') format('woff'),
+    url('https://rawgit.com/AbdullahZaher/layeeet/master/fonts/icomoon.svg?vrh177#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
